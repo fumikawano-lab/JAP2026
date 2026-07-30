@@ -1,0 +1,126 @@
+[
+  {
+    "pmid": "none",
+    "species": "mouse",
+    "age": "10-12 weeks old",
+    "sex": "male and female",
+    "biosample_main": "brain",
+    "biosample_detail": "hippocampus",
+    "experiment_type": "in vivo",
+    "model_main": "restraint stress",
+    "model_detail1": "6 hours per day",
+    "model_detail2": "with or without voluntary exercise",
+    "model_detail3": "none",
+    "timepoint": "2 weeks",
+    "targets": [
+      {
+        "target": "immobility",
+        "biosample": "output",
+        "molecule_type": "behavior",
+        "role": "none",
+        "analysis_main": "immobility",
+        "analysis_detail": "tail suspension test",
+        "relation": "unchange",
+        "change": "23 seconds",
+        "significance": "none",
+        "control": "pre"
+      },
+      {
+        "target": "gapdh",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "5%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "bdnf",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "decrease",
+        "change": "34%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "grm2",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "8%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "il1a",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "13%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "lcn2",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "25%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "il1b",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "20%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "grm4",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "36%",
+        "significance": "none",
+        "control": "untreated"
+      },
+      {
+        "target": "grm5",
+        "biosample": "hippocampus",
+        "molecule_type": "mrna",
+        "role": "none",
+        "analysis_main": "qpcr",
+        "analysis_detail": "normalized by actb",
+        "relation": "unchange",
+        "change": "13%",
+        "significance": "none",
+        "control": "untreated"
+      }
+    ]
+  }
+]
