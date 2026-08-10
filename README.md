@@ -8,3 +8,5 @@
 - Primer sequences.xlsx: showing the primer sequences for gene expression analysis
 - Supplemental Table S1: individual data in Euclidean distance between the input features and predicted features in BVN inference
 - Supplemental Figure S1: training loss progression during pre-training of depression and brain BVN model
+- Supplemental methods: including "Classification of the direction of change in experimental data" and "Statistical analysis"
+---
