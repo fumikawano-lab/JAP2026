@@ -1,4 +1,4 @@
-Supplemental files
+# Supplemental files
 - individual_input_data: JSON-formatted individual experimental data, including 26 male and 26 female mice
 - individual_network: image files of individual-specific network obtained from BVN inference
 - python_codes: full codes for inferring using depression and brain BVN model
